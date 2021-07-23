@@ -1,0 +1,18 @@
+Here is list of structures that can be used as program input:
+
+village
+mineshaft 
+stronghold 
+biome_1 
+dungeon 
+decoration 
+desert_pyramid 
+lake 
+lava_lake 
+fortress 
+mansion 
+oceanmonument 
+endcity 
+pillager_outpost 
+ruined_portal 
+bastion_remnant 
